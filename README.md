@@ -1,6 +1,6 @@
 # curso_python
 
-Archivos del curso de python realizado por Coursera.
+Archivos del curso de python realizado en Coursera.
 
 Programa Especializado: Aprende a programar con Python
 Universidad Austral
